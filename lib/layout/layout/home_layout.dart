@@ -26,6 +26,7 @@ class HomeLayout extends StatelessWidget
             body: Column(
               children:
               [
+                Text('mohamed'),
 
               ],
             ),
